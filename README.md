@@ -49,7 +49,7 @@ These three models consist of:
   3. binary crossentropy loss
   4. Adam optimizer with a learning rate of 3e-5 
   5. batch-size 32
-  6. Epochs 3
+  6. Epochs 4
 
 ## Results
 
